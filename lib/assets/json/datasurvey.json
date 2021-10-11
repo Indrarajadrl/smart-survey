@@ -1,0 +1,38 @@
+{
+    "guid": null,
+    "code": null,
+    "info": "",
+    "data": [
+        {
+            "id_profile": null,
+            "judul": "",
+            "deskripsi": "",
+            "userid": null,
+            "publish": null,
+            "mandatori": null,
+            "limitx": null,
+            "end_date": null,
+            "create_date": null,
+            "update_date": null,
+            "batas_isi": null,
+            "masa_aktif": null,
+            "privasix": null,
+            "header_color": null,
+            "back_color": null,
+            "layout_size": null,
+            "judul_view": null,
+            "deskripsi_view":null,
+            "header_view": null,
+            "type_content": null,
+            "sort_data": null,
+            "tipe_bobot":null,
+            "bobot_value": null,
+            "materi_view": null,
+            "status_soal":null,
+            "tipe_kuiz": null,
+            "form_encode": null,
+            "use_onkb": null,
+            "flow_encode": null
+        }
+    ]
+}

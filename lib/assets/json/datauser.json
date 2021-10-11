@@ -1,0 +1,16 @@
+
+{   
+    "guid": null,
+    "code": null,
+    "info": "",
+    "data": {
+        "iduser": "",
+        "username": "",
+        "name": "",
+        "role": "",
+        "status": "",
+        "retries": "",
+        "token": "",
+        "update_date": ""
+    }
+}
